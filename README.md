@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋🏼‍♀️ About Me:
 Hi, I am Dhaarani M,<br>As an electronics and communication engineering student with a keen interest in software development, my objective is to leverage my interdisciplinary background to create impactful software solutions. I aspire to apply my knowledge of electronics alongside my programming skills to develop efficient and reliable software applications, contributing to the advancement of technology and addressing the real world challenges.
 
 
